@@ -40,5 +40,5 @@ THEN that will be shown on the page, and added to their transaction history when
 
 The following image demonstrates the application functionality:
 
-![fitness tracker demo](./assets/images/screenshot.png)
+![fitness tracker demo](./screenshots/Screenshot.png)
 
